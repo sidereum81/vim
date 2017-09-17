@@ -1,4 +1,4 @@
-VIM repository
+Vim repository
 --------------
 
 This repository will contain some tips and tricks connected to the vim editor.
@@ -14,6 +14,10 @@ Use hybrid relative number, add this to .vimrc file
 :set !number !relativenumber    " toggle hybrid line numbers 
 
 
+
 Plugins
 -------
-
+https://github.com/vim-scripts/The-NERD-tree
+https://github.com/vim-syntastic/syntastic
+https://github.com/junegunn/vim-plug
+https://vimawesome.com/
