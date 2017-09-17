@@ -17,7 +17,13 @@ Use hybrid relative number, add this to .vimrc file
 
 Plugins
 -------
+https://github.com/kien/ctrlp.vim
 https://github.com/vim-scripts/The-NERD-tree
 https://github.com/vim-syntastic/syntastic
 https://github.com/junegunn/vim-plug
 https://vimawesome.com/
+
+Links
+-----
+https://robots.thoughtbot.com/seamlessly-navigate-vim-and-tmux-splits
+http://www.colbycheeze.com/blog/2015/02/level-up-your-workflow-with-vim-and-tmux.html
