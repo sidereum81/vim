@@ -27,3 +27,4 @@ Links
 -----
 https://robots.thoughtbot.com/seamlessly-navigate-vim-and-tmux-splits
 http://www.colbycheeze.com/blog/2015/02/level-up-your-workflow-with-vim-and-tmux.html
+https://www.tecmint.com/powerline-adds-powerful-statuslines-and-prompts-to-vim-and-bash/
